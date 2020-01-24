@@ -21,4 +21,4 @@ I think the best experience I got from this test is that even if the framework i
 
 ## How it works:
 
-The project is easy to implement, once you upload the file, the form table you want will aumomatically showup, it shows the monthly expense and the category expense, I add the total table too as a bonus.
+The project is easy to implement, once you upload the file, the form table you want will automatically show up, it shows the monthly expense and the category expense, I add the total table too as a bonus.
