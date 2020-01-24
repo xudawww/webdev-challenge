@@ -10,3 +10,9 @@ Run php artisan migrate
 Run php artisan serve
 
 
+## Thoughts about the laravel:
+
+In case you can't implement the project, I did the screenshot as following:
+
+
+
