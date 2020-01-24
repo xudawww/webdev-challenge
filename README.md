@@ -10,9 +10,15 @@ Run php artisan migrate
 Run php artisan serve
 
 
-## Thoughts about the laravel:
+## Thoughts about the laravel project:
 
 In case you can't implement the project, I did the screenshot as following:
+![Test Image 4](https://github.com/xudawww/webdev-challenge/blob/master/Screen%20Shot%202020-01-24%20at%203.45.16%20PM.png)
+
+I think the best experience I got from this test is that even if the framework is not hard, but keep learning it is mandatory, as the framework updated a lot, and it's different with the framework I learned one year ago. It takes me sometime to finish the test, however, I think I will learn more stuff about the Mysql, PHP if I get admitted by this job position. 
 
 
 
+## How it works:
+
+The project is easy to implement, once you upload the file, the form table you want will aumomatically showup, it shows the monthly expense and the category expense, I add the total table too as a bonus.
